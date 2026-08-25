@@ -1,5 +1,5 @@
-//Student Name: Kazi Islam (Ash)
-//Student Id: 302148588
+//Name: Kazi Islam
+
 #include <string.h>  // This library handling functions related to string.
 #ifdef __APPLE__  // This library Check if compiling on Apple system.
 #include <GLUT/glut.h> // This library is OpenGL Utility Toolkit specially for macOS.
